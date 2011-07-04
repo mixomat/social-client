@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    faker (0.9.5)
+      i18n (~> 0.4)
+    i18n (0.6.0)
+    json (1.5.3)
+    mime-types (1.16)
+    rest-client (1.6.3)
+      mime-types (>= 1.16)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faker
+  json
+  rest-client
